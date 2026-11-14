@@ -1,0 +1,4 @@
+strain,true_mu,true_lag_h,gompertz_mu,gompertz_lag_h,max_slope_mu,max_slope_lag_h,doubling_time_min,no_blank_mu,no_blank_lag_h
+wild type,0.9,1.5,0.915,1.64,0.878,1.52,45.4,0.59,2.42
+slow mutant,0.5,1.0,0.523,1.7,0.554,1.46,79.5,0.354,3.02
+long-lag mutant,0.9,4.0,0.903,4.15,0.914,4.19,46.0,0.61,5.03
